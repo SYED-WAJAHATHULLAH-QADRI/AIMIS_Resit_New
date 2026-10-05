@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy==2.2.6
+numba==0.61.2
+torch>=2.6,<3
+openai-whisper==20250625
+google-genai==2.12.1
+pydantic==2.13.5
+python-docx==1.2.0
